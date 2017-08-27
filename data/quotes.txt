@@ -1,0 +1,92 @@
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger Dijkstra
+Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet. - Michael A. Jackson
+The best method for accelerating a computer is the one that boosts it by 9.8 m/s2. - Anonymous
+Walking on water and developing software from a specification are easy if both are frozen. - Edward V Berard
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Brian Kernighan
+It's not at all important to get it right the first time. It's vitally important to get it right the last time. - Andrew Hunt and David Thomas
+First, solve the problem. Then, write the code. - John Johnson
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration. - Stan Kelly-Bootle
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Rick Osborne
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+Software sucks because users demand it to. - Nathan Myhrvold
+Linux is only free if your time has no value. - Jamie Zawinski
+Beware of bugs in the above code; I have only proved it correct, not tried it. - Donald Knuth
+There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code. - Flon's Law
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time. - Tom Cargill
+Good code is its own best documentation. As you're about to add a comment, ask yourself, "How can I improve the code so that this comment isn't needed?" Improve the code and then document it to make it even clearer. - Steve McConnell
+Programs must be written for people to read, and only incidentally for machines to execute. - Abelson / Sussman
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. - Alan Kay
+Programming can be fun, so can cryptography; however they should not be combined. - Kreitzberg and Shneiderman
+Copy and paste is a design error. - David Parnas
+Before software can be reusable it first has to be usable. - Ralph Johnson
+Without requirements or design, programming is the art of adding bugs to an empty text file. - Louis Srygley
+When someone says, "I want a programming language in which I need only say what I want done," give him a lollipop. - Alan Perlis
+Computers are good at following instructions, but not at reading your mind. - Donald Knuth
+Any code of your own that you haven't looked at for six or more months might as well have been written by someone else. - Eagleson's law
+Java is to JavaScript what Car is to Carpet. - Chris Heilmann
+It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free. - Steve McConnell
+Every man is born as many men and dies as a single one. - Martin Heidegger 
+Language is the house of the truth of Being. - Martin Heidegger 
+Man acts as though he were the shaper and master of language, while in fact language remains the master of man. - Martin Heidegger
+The most thought-provoking thing in our thought-provoking time is that we are still not thinking. - Martin Heidegger 
+The possible ranks higher than the actual. - Martin Heidegger
+Unless you change how you are, you will always have what you've got. - Jim Rohn 
+A stumble may prevent a fall. - English Proverb
+There's no limit to what a man can achieve, if he doesn't care who gets the credit. - Laing Burns, Jr.
+Don't waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.- Ralph Waldo Emerson
+The most practical, beautiful, workable philosophy in the world won't work - if you won't. - Zig Ziglar 
+I believe the greater the handicap, the greater the triumph. - John H. Johnson 
+Life shrinks or expands in proportion to one's courage. - Anais Nin
+We don’t see things as they are we see them as we are. - Anais Nin
+You can't build a reputation on what you are going to do. - Henry Ford
+The greatest form of maturity is at harvest time. That is when we must learn how to reap without complaint if the amounts are small and how to to reap without apology if the amounts are big. - Jim Rohn 
+People seem not to see that their opinion of the world is also a confession of character.  - Ralph Waldo Emerson
+The most successful people are those who are good at plan B. - James Yorke
+Opportunity is missed by most because it is dressed in overalls and looks like work. - Thomas Alva Edison
+The universe is full of magical things, patiently waiting for our wits to grow sharper. - Eden Phillpotts
+Experience is not what happens to a man, it is what a man does with what happens to him. - Aldous Huxley
+Imagination rules the world. - Napoleon Bonaparte
+Adversity has the effect of eliciting talents which, in prosperous circumstances, would have lain dormant. - Horace
+It isn't that they can't see the solution, it's that they can't see the problem. - G.K. Chesterton
+Facts are stubborn, but statistics are more pliable. - Mark Twain 
+All truth goes through three steps:  First, it is ridiculed. Second, it is violently opposed.  Finally, it is accepted as self-evident. - Arthur Schopenhauer 
+An invasion of armies can be resisted; an invasion of ideas cannot be resisted. - Victor Hugo 
+Pain is inevitable but misery is optional. - Barbara Johnson 
+Beware of defining as intelligent only those who share your opinions. - Ugo Ojetti 
+If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein 
+To believe a thing is impossible is to make it so. - French proverb
+Simplicity is the ultimate sophistication. - Leonardo da Vinci 
+To be simple is to be great. - Ralph Waldo Emerson 
+The trouble about man is twofold.  He cannot learn truths which are too complicated; he forgets truths which are too simple. - Dame Rebecca West 
+Everything should be as simple as it is, but not simpler. - Albert Einstein 
+That you may retain your self-respect, it is better to displease the people by doing what you know is right, than to temporarily please them by doing what you know is wrong. - William J. H. Boetcker 
+Many of life's failures are people who did not realize how close they were to success when they gave up. - Thomas Edison
+Hitch your wagon to a star. - Ralph Waldo Emerson 
+If you knew how much work went into it, you wouldn't call it genius. - Michelangelo
+I know God will not give me anything I can't handle. I just wish that He didn't trust me so much. - Mother Teresa 
+If we did the things we are capable of, we would astound ourselves. - Thomas Edison
+Choose a job that you like, and you will never have to work a day in your life. - Confucius
+As long as you’re going to be thinking anyway, think big. - Donald Trump
+Entrepreneurship is living a few years of your life like most people won’t so you can spend the rest of your life like most people can't. - Student (unidentified) of Warren G. Tracy
+A leader is one who knows the way, goes the way and shows the way. - John C. Maxwell
+Whatever the mind can conceive and believe, the mind can achieve. - Napoleon Hill
+I have not failed. I’ve just found 10,000 ways that won’t work. - Thomas Edison
+It’s fine to celebrate success but it is more important to heed the lessons of failure. - Bill Gates
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great. - Mark Twain
+The function of leadership is to produce more leaders, not more followers. - Ralph Nader
+If you cannot do great things, do small things in a great way. - Napoleon Hill
+Genius is 1 percent inspiration, and 99 percent perspiration. - Thomas Edison
+Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill
+What is not started will never get finished - Johann Wolfgang von Goethe
+Formal education will make you a living; self-education will make you a fortune. - Jim Rohn
+When you cease to dream, you cease to live. - Malcolm Forbes
+Your most unhappy customers are your greatest source of learning. - Bill Gates
+An entrepreneur is someone who jumps off a cliff and builds a plane on the way down. - Reid Hoffman
+Winners never quit, and quitters never win. - Vince Lombardi
+Everyone has ideas. They may be too busy or lack the confidence or technical ability to carry them out. But I want to carry them out. It is a matter of getting up and doing it. - James Dyson
+Your time is limited, so don’t waste it living someone else’s life. - Steve Jobs
+Success is not what you have, but who you are. - Bo Bennett
+The price of success is hard work, dedication to the job at hand and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand. - Vince Lombardi
+It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently. - Warren Buffett
+Logic will get you from A to B. Imagination will take you everywhere. - Albert Einstein
+Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain
