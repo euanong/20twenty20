@@ -3,7 +3,7 @@
 >Use the 20-20-20 rule. Every 20 minutes, take a 20-second break and focus your eyes on something at least 20 feet away.
 &mdash; Canadian Association of Optometrists
 
-20twenty20 is a Python (2.7) app for Mac to help you follow the 20-20-20 rule by displaying a fullscreen message reminding you to look away from your screen (along with an inspirational quote) every 20 minutes. 
+20twenty20 is a Python (2.7) app for Mac to help you follow the 20-20-20 rule by displaying a fullscreen message reminding you to look away from your screen (along with an inspirational quote) every 20 minutes. Comes with status bar controls.
 
 ## Install
 `pip install pygame rumps schedule`
