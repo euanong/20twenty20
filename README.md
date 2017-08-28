@@ -5,10 +5,15 @@
 
 20twenty20 is a Python (2.7) app for Mac to help you follow the 20-20-20 rule by displaying a fullscreen message reminding you to look away from your screen (along with an inspirational quote) every 20 minutes. Comes with status bar controls.
 
-## Install
+## Download/Install/Run
+The app now comes packaged in a nice .app file - download the latest zip at https://github.com/eohomegrownapps/20twenty20/releases/latest.
+
+## Run from source
+
+### Install
 `pip install pygame rumps schedule`
 
-## Run
+### Run
 `python main.py &`
 
 You can probably wrap this in an Automator script or make a bash alias or... something
